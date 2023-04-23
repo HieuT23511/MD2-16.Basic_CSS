@@ -1,0 +1,14 @@
+/* Phần 3: */
+h1 {
+    color: green;
+    font-family: Tahoma, serif;
+    font-size: 200%;
+}
+
+p {
+    width: 450px;
+    height: 200px;
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+}
