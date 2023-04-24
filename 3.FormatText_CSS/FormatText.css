@@ -9,6 +9,7 @@ hr {
     margin: 0px;
 }
 #title {
+    font-size: 70%;
     margin-top: 1px;
 }
 .divText {
@@ -16,9 +17,6 @@ hr {
     text-indent: 50px;
     text-align: justify;
     font-family: Arial sans-serif;
-}
-#title {
-    font-size: 70%;
 }
 .textColorDeepBlue {
     color: deepskyblue;
@@ -28,4 +26,8 @@ hr {
 }
 sup {
     font-size: 60%;
+    color: blue;
+}
+#area-sup{
+    color: black;
 }
