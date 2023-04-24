@@ -1,0 +1,21 @@
+.container{
+    width: 640px;
+}
+.divText {
+    padding: 8px;
+    text-indent: 50px;
+    text-align: justify;
+    font-family: Arial sans-serif;
+}
+#title {
+    font-size: 70%;
+}
+.textColorDeepBlue {
+    color: deepskyblue;
+}
+.textColorBlue {
+    color: blue;
+}
+sup {
+    font-size: 50%;
+}
