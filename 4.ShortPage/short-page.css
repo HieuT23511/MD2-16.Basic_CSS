@@ -1,0 +1,26 @@
+.container1 {
+    margin-left: 40px;
+    width: 500px;
+    /*gap: 20px;*/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+hr {
+    width: 800px;
+    margin-left: 0;
+}
+h5 {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.container2 {
+    margin: 10px;
+    width: 800px;
+    /*gap: 20px;*/
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+.chapter {
+    margin: 10px;
+    text-align: justify;
+}
